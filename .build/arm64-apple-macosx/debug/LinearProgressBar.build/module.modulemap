@@ -1,0 +1,4 @@
+module LinearProgressBar {
+    header "/Users/khc/Desktop/Work/EMR/dependencyManaging/LinearProgressBar/.build/arm64-apple-macosx/debug/LinearProgressBar.build/LinearProgressBar-Swift.h"
+    requires objc
+}
